@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2143" started-at="2020-07-07T11:17:36Z" finished-at="2020-07-07T11:17:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2143" started-at="2020-07-07T11:17:36Z" finished-at="2020-07-07T11:17:39Z">
+      <class name="sumValidations">
+        <test-method status="PASS" signature="sumofCourses()[pri:0, instance:sumValidations@19d37183]" name="sumofCourses" duration-ms="2109" started-at="2020-07-07T16:47:37Z" finished-at="2020-07-07T16:47:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumofCourses -->
+      </class> <!-- sumValidations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
